@@ -4,4 +4,4 @@ Get the starter files for this app by switching the branch from `main` to `start
 
 #### Tutorial Link
 
-[Music App Tutorial](https://www.youtube.com/channel/UCVy_Vz0FyiDs5oomr60swvA)
+[Music App Tutorial](https://youtu.be/jNKcdeYUNGI)
